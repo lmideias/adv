@@ -1,0 +1,603 @@
+
+@media only screen and (max-width : 480px) {
+ 
+ 
+/*----box principal home ------------*/
+
+ .box-body {
+        width: 100%;
+        height:auto;        
+        margin-left: auto;
+        margin-right: auto;
+        background: #F1F8E9;
+    } 
+
+/*--barra menu--*/
+
+.boxA{
+    width: 100%;
+        height:80px; 
+        margin-top: 0px;        
+         background-color: rgba(76, 175, 80, 0.6);        
+        margin-left: auto;
+        margin-right: auto;
+
+}
+
+.boxB{
+    width: 100%;
+        height:250px; 
+        margin-top: 10px;        
+           
+        margin-left: auto;
+        margin-right: auto;
+
+}
+
+/*--caixa do home eventos*/
+
+.box-b{
+   width: 320px;
+   height: auto; 
+   margin-top: 20px;
+   float: left;
+   display: block; 
+   margin-left: 20px;    
+    background-color: rgba(76, 175, 80, 0.6);
+}
+
+/*===== home =======*/
+
+.home-header{
+   width: 100%;
+   height: 160px;   
+   float: left;
+   display: block;    
+    background: #558B2F; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#558B2F, #7CB342); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#558B2F, #7CB342); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#558B2F, #7CB342); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#558B2F, #7CB342); /* Standard syntax */
+}
+
+
+.home-box-body{
+ width: 100%;
+ height: 700px;   
+ float: left;
+ display: block;
+overflow-y: auto; 
+background: #DCE775;
+padding-bottom: 300px;
+}
+
+.footer{
+  width: 100%;
+ height: 40px;   
+ float: left;
+ display: block;
+
+background: #DCE775; 
+}
+
+.box-evento{
+   width: 320px;
+   height: 200px; 
+   margin-top:15px;  
+   float: left;
+   display: block; 
+   margin-left: 20px; 
+   background: #689F38;
+    font-family: 'Roboto', sans-serif;
+  color:#fff;  
+}
+
+
+.be-header{
+    width: 300px;
+    height: 50px; 
+   margin-top:0px;  
+   float: left;
+   display: block; 
+   margin-left: 10px;   
+   border-bottom: 2px solid #CDDC39;
+
+}
+
+.be-body{
+    width: 300px;
+    height: 100px; 
+   margin-top:0px;  
+   float: left;
+   display: block; 
+   margin-left: 10px;   
+   
+
+}
+
+
+.be-body-box{
+    width: 85px;
+    height: 90px; 
+   margin-top:20px;  
+   float: left;
+   display: block; 
+   margin-left: 12px;   
+   border-bottom: 2px solid #CDDC39;
+}
+
+
+.p4{
+  text-align: center;
+   font-size: 12px;
+}
+
+.p3{
+  text-align: center;
+   font-size: 25px;
+}
+
+/*---alinhamento dos textos*/
+.p1{
+   margin-top:15px; 
+    margin-left: 20px;    
+   float: left;
+   display: block;  
+   font-size: 25px;
+  
+}
+
+.p2{
+   margin-top:25px;  
+   float: left;
+   display: block; 
+   margin-left: 20px;   
+   font-size: 14px;
+    text-align: center;
+  
+}
+
+
+
+.be-footer a{
+   margin-top:12px;  
+   float: left;
+   display: block; 
+   margin-left: 234px;   
+   font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+  color:#fff; 
+  
+}
+/*==================*/
+
+
+/*--cadastro participante---------------------------------------*/
+
+
+.box-config-menu{
+    width: 100%;
+        height:120px; 
+        margin-top: 0px;        
+         background-color:#558B2F;        
+        margin-left: auto;
+        margin-right: auto;
+
+}
+
+
+.bc-menu-header1{
+    width: 80px;
+   height: 80px; 
+   margin-top:15px;  
+   float: left;
+   display: block; 
+   margin-left: 15px; 
+  
+  
+    font-family: 'Roboto', sans-serif;
+  color:#fff;
+  text-align: center;
+}
+
+.bc-menu-header2{
+    width: 200px;
+   height: 60px; 
+   margin-top: 25px;  
+   float: left;
+   display: block; 
+   margin-left: 0px; 
+  
+  
+    font-family: 'Roboto', sans-serif;
+  color:#fff;
+  text-align: center;
+}
+
+.bc-menu{
+  width: 100%;
+   height: 30px;   
+   float: left;
+   display: block;   
+  border-top: 1px solid #C5E1A5;
+    font-family: 'Roboto', sans-serif;
+  color:#fff;
+  text-align: center;
+}
+.bc-menu button{margin-left: 10px; margin-top: -3px; color: #fff;
+}
+
+.btn-home{
+float: right;
+    font-family: 'Roboto', sans-serif;
+  color:#fff;
+  text-align: center;
+ 
+
+}
+/*-------------------------------*/
+
+.box-cadp{
+   width: 290px;
+   height: 300px; 
+   margin-top: 15px;  
+   float: left;
+   display: block; 
+   margin-left: 38px; 
+   
+}
+
+.cadp1{
+   width: 290px;
+   height: 55px; 
+   margin-top: px;  
+   float: left;
+   display: block; 
+   margin-left: 0px; 
+   background-color: #7CB342;
+   border-radius: 5px 5px 0px 0px;
+    font-family: 'Roboto', sans-serif;
+  color:#fff;
+  text-align: center;
+  
+}
+
+.h{
+  margin-top: 20px;
+  font-family: 'Roboto', sans-serif;
+  color:#fff;
+  text-align: center;
+}
+
+.hm1{
+  margin-top: 20px;
+  font-family: 'Roboto', sans-serif;
+  color:#fff;
+  text-align: center;
+}
+
+.hm2{
+  margin-top: 20px;
+  font-family: 'Roboto', sans-serif;
+  color:#fff;
+  text-align: center;
+}
+
+.cadp2{
+   width: 290px;
+   height: 180px; 
+   margin-top: 2px;  
+   float: left;
+   display: block; 
+   margin-left: 0px; 
+   background-color: #C5E1A5;
+   padding:0px 40px 0px;
+}
+
+.cadp2 label{
+margin-left: 10px;
+margin-top: 10px;color:#fff;
+}
+
+.cadp3{
+   width: 290px;
+   height: 55px; 
+   margin-top: 2px;  
+   float: left;
+   display: block; 
+   margin-left: 0px; 
+   background-color: #7CB342;
+    border-radius: 0px 0px 7px 7px;
+   
+}
+
+.cadp3 button{margin-left: 55px; color: #fff;
+}
+
+/*tabela de cadastrados-----------*/
+
+.table-linha-header{
+   width: 100%;
+   height: 35px; 
+   margin-top: 20px;  
+   float: left;
+   display: block; 
+  background-color: #7CB342;
+  padding-left: 7px;
+  color:#fff;
+   
+}
+
+.box-lista{
+   width: 100%;
+   height: 700px;  
+   padding: 2%;
+   float: left;
+   display: block;    
+    background-color: #F1F8E9;
+   
+}
+
+
+.table-linha{
+   width: 345px;
+   height: 30px; 
+   margin-top: 2px;  
+   float: left;
+   display: block; 
+  border-bottom: 1px solid #DCEDC8;
+   color: #7CB342;
+   
+}
+
+.tl1{
+   width: 160px;
+   height: 25px;     
+   float: left;
+   display: block; 
+    margin-left: 6px;  
+   
+}
+
+.tl2{
+   width: 90px;
+   height: 25px;     
+   float: left;
+   display: block;   
+   
+   margin-left: 1px;
+}
+.tl3, .tl4{
+   width: 30px;
+   height: 25px;     
+   float: left;
+   display: block;   
+  
+    margin-left: 10px;
+}
+/*--cadastro participante -- fim ---------------------------------- */
+
+
+
+
+.box-add{
+   width: 351px;
+   height: auto; 
+   margin-top: 2px;
+   padding: 50px;
+   float: left;
+   display: block; 
+     margin-left: 4px; 
+    background-color: #F8F8FF;
+}
+
+
+
+.pq10{
+  width: 200px;
+}
+
+
+
+
+
+
+
+
+/*-------------------------*/
+
+
+
+
+.box-a{
+   width: 320px;
+   height: 200px; 
+   margin-top: 30px;
+   float: left;
+   display: block; 
+   margin-left: 0px;      
+   background-color: green; 
+}
+
+
+
+
+/*---- btnconfig -----*/
+
+
+
+
+.boxA img{
+
+   width: 60px;
+   height: 60px; 
+   margin-top: 10px;
+   margin-right: 10px;
+   float: right;
+   display: block; 
+    
+  
+}
+ /*----  box principal -------------------*/
+
+
+
+  .bl-header {
+        width: 100%;
+        height: 70px;       
+        background-color: #d9534f;       
+      
+    }
+
+     .barra img {
+        width: 50px;
+        height: 50px; 
+       float: right;
+       display: block; 
+         margin-right: 10px;
+        margin-top: 10px;        
+       position: relative;
+
+    }
+
+     .bl-body {
+        width: 95%;
+        height:600px; 
+        margin-top: 5px;        
+        background-color: #fff;        
+        margin-left: auto;
+        margin-right: auto;
+    }  
+
+    .box1 {
+        width: 100%;
+        height: 60px; 
+        background-color: #d9534f;         
+       
+    }
+
+
+    /*lista teste*/
+  
+  .form-control, .btn{
+     margin-top: 10px;
+
+  }
+
+  .selecionado{
+    background-color: green;
+  }
+
+  .jumbotron{
+    width: 96%;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4%;
+  }
+
+
+  /*--- menu ---*/
+
+
+ 
+
+.home-logo{
+    width: 200px;
+    height: 200px;   
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 45%;
+    left: -100px;
+    background-color: #d0e9c6;    
+    display: block;    
+  }
+
+html { 
+  overflow-y:hidden; 
+}
+
+.page{ 
+  
+  position:absolute; 
+ background-color: #F1F8E9;
+  width:100%;
+   height: 700px;    
+ 
+}
+
+.pageNao{ 
+   overflow-y: auto;  
+  position:absolute; 
+  background-image: url('../Imagens/bga-min.png'); 
+   background-repeat: no-repeat;
+    background-color: #000000;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover; /*Css padrão*/ 
+  width:100%;
+  height:700px; 
+ 
+}
+
+  /* ANIMATIONS
+============================================================================= */
+
+.page.ng-leave  { z-index:9999; }
+.page.ng-enter  { z-index:8888; }
+
+/* page specific animations ------------------------ */
+
+
+/* about ------------------------ */
+.aLeft.ng-leave        {
+    -webkit-animation:slideOutLeft 0.5s both ease-in;
+  -moz-animation:slideOutLeft 0.5s both ease-in;
+  animation:slideOutLeft 0.5s both ease-in;   
+}
+.aLeft.ng-enter     {  
+    -webkit-animation:slideInRight 0.5s both ease-in;
+  -moz-animation:slideInRight 0.5s both ease-in;
+  animation:slideInRight 0.5s both ease-in;    
+}
+
+
+
+
+
+/* slide in from the right */
+@keyframes slideInRight {
+  from  { transform:translateX(100%); }
+  to    { transform: translateX(0); }
+}
+@-moz-keyframes slideInRight {
+  from  { -moz-transform:translateX(100%); }
+  to    { -moz-transform: translateX(0); }
+}
+@-webkit-keyframes slideInRight {
+  from  { -webkit-transform:translateX(100%); }
+  to    { -webkit-transform: translateX(0); }
+}
+
+
+/* slide in from the bottom */
+@keyframes slideOutLeft {
+  to    { transform: translateX(-100%); }
+}
+@-moz-keyframes slideOutLeft {  
+  to    { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes slideOutLeft {
+  to    { -webkit-transform: translateX(-100%); }
+}
+
+
+
+
+
+
+
+
+
+}
+ 

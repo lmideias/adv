@@ -1,0 +1,92 @@
+.mabox{
+  width: 100%;
+  height:100px;
+  background: #558B2F;
+ background: -webkit-linear-gradient(#558B2F, #7CB342);
+ background: -o-linear-gradient(#558B2F, #7CB342);
+ background: -moz-linear-gradient(#558B2F, #7CB342);
+ background: linear-gradient(#558B2F, #7CB342);
+
+}
+
+.mabox-center{
+  width: 1200px;
+  height:100px;
+  background-color: ;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+/*====== login === cadastro =====*/
+
+.ma-body{
+    width: 100%;   
+    background-image: url(../Imagens/bg.jpg);
+    background-repeat: no-repeat;
+    background-color: #000000;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover; 
+    
+}
+
+.locad-box-forms{
+  width: 600px;
+  height:800px;
+  margin-top: 10px;
+  padding: 50px;
+  background-color: rgba(76, 175, 80, 0.6);   
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lbf-login{
+	 width: 100%;
+  height:auto;
+  padding: 40px;
+  background: #558B2F;
+ background: -webkit-linear-gradient(#558B2F, #7CB342);
+ background: -o-linear-gradient(#558B2F, #7CB342);
+ background: -moz-linear-gradient(#558B2F, #7CB342);
+ background: linear-gradient(#558B2F, #7CB342);
+}
+
+.lbf-cadastro{
+	 width: 100%;
+   height:auto;
+  margin-top: 10px;
+    padding: 40px;
+  background: #558B2F;
+ background: -webkit-linear-gradient(#558B2F, #7CB342);
+ background: -o-linear-gradient(#558B2F, #7CB342);
+ background: -moz-linear-gradient(#558B2F, #7CB342);
+ background: linear-gradient(#558B2F, #7CB342);
+}
+
+
+
+
+/*====== login === cadastro ==== fim ====*/
+
+
+.box-ad1{
+  width: 600px;
+  height:auto;
+  margin-top: 10px;
+  padding: 50px;
+  background-color: rgba(76, 175, 80, 0.6);   
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box-ad2{
+  width: 600px;
+  height:auto;
+  margin-top: 10px;
+  padding: 50px;
+  background-color: rgba(76, 175, 80, 0.6);   
+  margin-left: auto;
+  margin-right: auto;
+}
